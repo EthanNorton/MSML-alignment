@@ -43,7 +43,10 @@
 3. **Safe RL & Agents (Safe AI Lab-aligned)**  
    - Safety in control/decision-making under uncertainty; sim-to-real considerations; verification hooks in RL pipelines.
 
-🔬 Research Milestones (proposed)
+4. **Community**
+   - This repository aims to pull links together, and organize a format that brings faculty, students, and researchers closer together. 
+
+# 🔬 Research Milestones (proposed)
 
 **Spring 2026**
 - Apply Intelligent Systems and Robotics and Probability/Simulation to a relevant project, build upon capstone and deepen knowledge, await for feedback. 
