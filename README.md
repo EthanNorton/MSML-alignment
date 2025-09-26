@@ -43,45 +43,6 @@
 3. **Safe RL & Agents (Safe AI Lab-aligned)**  
    - Safety in control/decision-making under uncertainty; sim-to-real considerations; verification hooks in RL pipelines.
 
----
-
-## 🗂 Repository Structure (to be updated - just an example). 
-
-.
-├── 00_admin/
-│ ├── sop/ # Statements of purpose & notes
-│ ├── advisor-notes/ # Running notes for faculty fit (Shah, Kasirzadeh, others)
-│ └── checklists/ # Reproducibility, ethics, and release checklists
-├── 10_theory/
-│ ├── pgm/ # Graphical models: notes, derivations, tiny experiments
-│ ├── rl/ # RL fundamentals + safe RL reading summaries
-│ └── ml_theory/ # Generalization, stability, convex analysis notes
-├── 20_projects/
-│ ├── energy-forecasting/ # SARIMA-aware LSTM with seed-stability analysis
-│ │ ├── data/ # (gitignored) raw/processed
-│ │ ├── notebooks/ # EDA, modeling, seed-stability plots
-│ │ ├── src/ # package-like code
-│ │ └── reports/ # writeups & figures
-│ └── llm-auditing/ # ICSD-inspired evals & audit tooling
-│ ├── datasets/ # pointers + cards (licenses, provenance)
-│ ├── notebooks/
-│ ├── src/
-│ └── reports/
-├── 30_eval_tooling/
-│ ├── metrics/ # eval metrics, calibration, uncertainty, robustness
-│ ├── reproducibility/ # seeds, env pinning, run manifests (JSON/YAML)
-│ └── viz/ # standardized plots (R², reliability, CIs)
-├── 40_course-prep/
-│ ├── probability/
-│ ├── convex-optimization/
-│ ├── deep-rl/
-│ ├── pgm/
-│ └── ml-graphs/
-├── 90_bibliography/
-│ ├── papers.bib # master BibTeX
-│ └── reading-notes/ # structured paper notes (1-pagers)
----
-
 🔬 Research Milestones (proposed)
 
 **Spring 2026**
