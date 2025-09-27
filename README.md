@@ -70,18 +70,18 @@ Reach back out to Dr. Shah, show progress, and see next steps. Try to align earl
 
 ## Research
 
-- Begin on work purposed in [Research](https://github.com/EthanNorton/MSML-alignment/tree/research)
+- Begin on work proposed in [Research](https://github.com/EthanNorton/MSML-alignment/tree/research).
 - Rebuild forecasting pipeline with stricter determinism; publish a reproducibility report (R² distributions vs seeds; calibration).
 - Draft an evaluation taxonomy for LLM auditing (annotation robustness; agreement modeling; reviewer assignment framing).
 
 
 **Semester 2**
  - [Probabilistic Graphical Models](https://andrejristeski.github.io/10708S25/)
-   -[Insert branch]
+   - [Insert branch]
  - [Machine Learning in practice](https://www.cs.cmu.edu/~smithv/10718/)
-   -[Insert branch]
+   - [Insert branch]
  - [Machine Learning with graphs](https://www.cs.cmu.edu/~yiming/Syllabus.pdf)
-   -[Insert branch]
+   - [Insert branch]
 
 ## Continue into research, build thesis foundations. 
 
@@ -93,15 +93,16 @@ Submit a short workshop paper (reproducibility or evaluation).
 
 **Electives to focus on**
 - To be updated.
-- Deep Reinforcement Learning, Graduate Artificial Intelligence. 
-🧑‍🏫 **Advising Fit & Notes (living)**
+- Deep Reinforcement Learning, Graduate Artificial Intelligence.
+  
+🧑‍🏫 **Advising Fit & Notes**
 With Prof. Nihar Shah: evaluation science, peer-review modeling, theory with deployments.
 
 With Prof. Atoosa Kasirzadeh: AI governance/ethics methods integrated with technical pipelines and evaluation.
 
 With Safe AI Lab: verification-minded RL/agents and safety for high-stakes systems.
 
--Problem Statement: Think high level how to tie all three together. It may take some time. 
+# **Problem Statement: Think high level how to tie all three together. It may take some time.**
 
 Maintain running notes, alignment, and annotations.
 
