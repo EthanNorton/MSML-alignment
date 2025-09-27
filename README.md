@@ -59,15 +59,15 @@ Reach back out to Dr. Shah, show progress, and see next steps. Try to align earl
 **Semester 1**
 
 - [Intro to Machine Learning](https://www.cs.cmu.edu/~hchai2/courses/10701/)
-   -[Insert branch on getting ahead on research]
+   - [Notes](https://github.com/EthanNorton/MSML-alignment/tree/machine-learning)
 - [Statistics](https://www.stat.cmu.edu/~siva/teaching/700/)
-   -[Insert branch]
+   - [Notes](https://.com/EthanNorton/MSML-alignment/tree/statistics)
 - [Convex Optimization](https://www.stat.cmu.edu/~siva/teaching/725/)
-   -[Insert branch]
+   - [Notes](https://github.com/EthanNorton/MSML-alignment/tree/convex-optimization)
 
 ## Research
 
-- Begin on work purposed in [Alignment to his research group].
+- Begin on work purposed in [Research](https://github.com/EthanNorton/MSML-alignment/tree/research)
 - Rebuild forecasting pipeline with stricter determinism; publish a reproducibility report (R² distributions vs seeds; calibration).
 - Draft an evaluation taxonomy for LLM auditing (annotation robustness; agreement modeling; reviewer assignment framing).
 
