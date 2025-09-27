@@ -52,14 +52,14 @@
 
 ## 🔬 Research Milestones (proposed)
 
-- **Spring 2026**
+#  **Spring 2026**
 - Apply Intelligent Systems and Robotics and Probability/Simulation to a relevant project, build upon capstone and deepen knowledge, await for feedback. 
 
-- **Summer 2026, if accepted**
+# **Summer 2026, if accepted**
 Reach back out to Dr. Shah, show progress, and see next steps. Try to align early and begin research. 
   - [Alignment to his research group](https://github.com/EthanNorton/MSML-alignment/tree/shah)
 
-- **Semester 1**
+# **Semester 1**
 
 - [Intro to Machine Learning](https://www.cs.cmu.edu/~hchai2/courses/10701/)
    - [Notes](https://github.com/EthanNorton/MSML-alignment/tree/machine-learning)
@@ -73,7 +73,7 @@ Reach back out to Dr. Shah, show progress, and see next steps. Try to align earl
    - Draft an evaluation taxonomy for LLM auditing (annotation robustness; agreement modeling; reviewer assignment framing).
 
 
-- **Semester 2**
+# **Semester 2**
  - [Probabilistic Graphical Models](https://andrejristeski.github.io/10708S25/)
    - [Insert branch]
  - [Machine Learning in practice](https://www.cs.cmu.edu/~smithv/10718/)
@@ -82,17 +82,17 @@ Reach back out to Dr. Shah, show progress, and see next steps. Try to align earl
    - [Insert branch]
  - Continue into research, build thesis foundations. 
 
-- **Summer**
+# **Summer**
  - TBD based off lessons learned from previious semester, probably research. 
   - Safe RL prototype in a simulator (risk constraints, verification hooks).
   - Submit a short workshop paper (reproducibility or evaluation).
 
 
-- **Electives to focus on**
+## **Electives to focus on**
 - To be updated.
 - Deep Reinforcement Learning, Graduate Artificial Intelligence.
   
-- 🧑‍🏫 **Advising Fit & Notes**
+# 🧑‍🏫 **Advising Fit & Notes**
  - With Prof. Nihar Shah: evaluation science, peer-review modeling, theory with deployments.
 
  - With Prof. Atoosa Kasirzadeh: AI governance/ethics methods integrated with technical pipelines and evaluation.
@@ -103,9 +103,9 @@ Reach back out to Dr. Shah, show progress, and see next steps. Try to align earl
 
 Maintain running notes, alignment, and annotations.
 
-📚 **Literature Tracker**
+## 📚 **Literature Tracker**
 To be updated
 
-🔁 **Related Prior Work (external)**
+## 🔁 **Related Prior Work (external)**
 MSDS Alignment Project (baseline + direction):
 https://github.com/EthanNorton/MSDS-alignment/tree/ai-alignment-problem
