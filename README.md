@@ -46,7 +46,9 @@
    - Safety in control/decision-making under uncertainty; sim-to-real considerations; verification hooks in RL pipelines.
 
 4. **Community**
-   - This repository aims to pull links together, and organize a format that brings faculty, students, and researchers closer together. 
+   - This repository aims to pull links together, and organize a format that brings faculty, students, and researchers closer together.
+
+- Thesis will likely be a blend of the above 4.
 
 # 🔬 Research Milestones (proposed)
 
@@ -55,7 +57,7 @@
 
 **Summer 2026, if accepted**
 Reach back out to Dr. Shah, show progress, and see next steps. Try to align early and begin research. 
-  - [Alignment to his research group] # insert here
+  - [Alignment to his research group](https://github.com/EthanNorton/MSML-alignment/tree/shah)
 
 **Semester 1**
 
