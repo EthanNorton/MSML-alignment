@@ -50,16 +50,16 @@
 
 - Thesis will likely be a blend of the above 4.
 
-# 🔬 Research Milestones (proposed)
+## 🔬 Research Milestones (proposed)
 
-**Spring 2026**
+- **Spring 2026**
 - Apply Intelligent Systems and Robotics and Probability/Simulation to a relevant project, build upon capstone and deepen knowledge, await for feedback. 
 
-**Summer 2026, if accepted**
+- **Summer 2026, if accepted**
 Reach back out to Dr. Shah, show progress, and see next steps. Try to align early and begin research. 
   - [Alignment to his research group](https://github.com/EthanNorton/MSML-alignment/tree/shah)
 
-**Semester 1**
+- **Semester 1**
 
 - [Intro to Machine Learning](https://www.cs.cmu.edu/~hchai2/courses/10701/)
    - [Notes](https://github.com/EthanNorton/MSML-alignment/tree/machine-learning)
@@ -67,40 +67,37 @@ Reach back out to Dr. Shah, show progress, and see next steps. Try to align earl
    - [Notes](https://.com/EthanNorton/MSML-alignment/tree/statistics)
 - [Convex Optimization](https://www.stat.cmu.edu/~siva/teaching/725/)
    - [Notes](https://github.com/EthanNorton/MSML-alignment/tree/convex-optimization)
-
-## Research
-
-- Begin on work proposed in [Research](https://github.com/EthanNorton/MSML-alignment/tree/research).
-- Rebuild forecasting pipeline with stricter determinism; publish a reproducibility report (R² distributions vs seeds; calibration).
-- Draft an evaluation taxonomy for LLM auditing (annotation robustness; agreement modeling; reviewer assignment framing).
+- Research
+   - Begin on work proposed in [Research](https://github.com/EthanNorton/MSML-alignment/tree/research).
+   - Rebuild forecasting pipeline with stricter determinism; publish a reproducibility report (R² distributions vs seeds; calibration).
+   - Draft an evaluation taxonomy for LLM auditing (annotation robustness; agreement modeling; reviewer assignment framing).
 
 
-**Semester 2**
+- **Semester 2**
  - [Probabilistic Graphical Models](https://andrejristeski.github.io/10708S25/)
    - [Insert branch]
  - [Machine Learning in practice](https://www.cs.cmu.edu/~smithv/10718/)
    - [Insert branch]
  - [Machine Learning with graphs](https://www.cs.cmu.edu/~yiming/Syllabus.pdf)
    - [Insert branch]
+ - Continue into research, build thesis foundations. 
 
-## Continue into research, build thesis foundations. 
-
-**Summer**
-# TBD based off lessons learned from previious semester, probably research. 
-Safe RL prototype in a simulator (risk constraints, verification hooks).
-Submit a short workshop paper (reproducibility or evaluation).
+- **Summer**
+ - TBD based off lessons learned from previious semester, probably research. 
+  - Safe RL prototype in a simulator (risk constraints, verification hooks).
+  - Submit a short workshop paper (reproducibility or evaluation).
 
 
-**Electives to focus on**
+- **Electives to focus on**
 - To be updated.
 - Deep Reinforcement Learning, Graduate Artificial Intelligence.
   
-🧑‍🏫 **Advising Fit & Notes**
-With Prof. Nihar Shah: evaluation science, peer-review modeling, theory with deployments.
+- 🧑‍🏫 **Advising Fit & Notes**
+ - With Prof. Nihar Shah: evaluation science, peer-review modeling, theory with deployments.
 
-With Prof. Atoosa Kasirzadeh: AI governance/ethics methods integrated with technical pipelines and evaluation.
+ - With Prof. Atoosa Kasirzadeh: AI governance/ethics methods integrated with technical pipelines and evaluation.
 
-With Safe AI Lab: verification-minded RL/agents and safety for high-stakes systems.
+ - With Safe AI Lab: verification-minded RL/agents and safety for high-stakes systems.
 
 # **Problem Statement: Think high level how to tie all three together. It may take some time.**
 
