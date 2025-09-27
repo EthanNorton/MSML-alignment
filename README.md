@@ -1,5 +1,6 @@
 # CMU MSML (Advanced Study) – Research Prep & Portfolio
-> **Primary Goal:** This repository aims to pull links together, and organize a format that brings faculty, students, and researchers closer together. 
+> **Primary Goal:** This repository aims to pull links together, and organize a format that brings faculty, students, and researchers closer together.
+
 > **Secondary Goal:** Deepen theory (probabilistic graphical models, RL, ML theory) and extend it into **scalable, reproducible, and trustworthy** ML systems. This repo tracks coursework prep, research scaffolding, and reproducible code toward CMU’s **MS in Machine Learning – Advanced Study** and a pathway into research with 1) **ICSD** or 2) **Safe AI Lab**.
 
 
